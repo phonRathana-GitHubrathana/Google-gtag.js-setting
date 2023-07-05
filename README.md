@@ -12,7 +12,7 @@ function findDestination() {
   var translations, lang;
   var userLang = (getURLParameter("lang") || window.navigator.userLanguage || window.navigator.language).substring(0,2);
   if (userLang == 'km')
-    userLang = 'kh-km';
+    userLang = 'kh-kh';
   var hash = window.location.hash;
   switch (hash) {
     case "#tutorial":
