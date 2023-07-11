@@ -91,27 +91,7 @@ window.location.replace(findDestination());
 
     <li><a href="pt">Minhas despesas</a></li>
 
-    <li><a href="ro">Cheltuielile Mele</a></li>
-
-    <li><a href="ru">Мои расходы</a></li>
-
-    <li><a href="ta">எனது செலவுகள்</a></li>
-
-    <li><a href="te">నా ఖర్చులు</a></li>
-
-    <li><a href="tr">Harcamalarım</a></li>
-
-    <li><a href="uk">Мої Витрати</a></li>
-
-    <li><a href="vi">Chi Tiêu Của Tôi</a></li>
-
-    <li><a href="km-"</a></li>
-
-    <li><a href="zh-tw">開支助手</a></li>
-
-</ul>
-</noscript> 
-</body>
+    <li><a href="ro">Cheltu
 
 
 
